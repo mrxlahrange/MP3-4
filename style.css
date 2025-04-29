@@ -1,0 +1,133 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+body{
+        background: linear-gradient(30deg, red, black 80%);
+       background-repeat: no-repeat;
+        outline: none;
+        font-family: sans-serif;
+       
+}
+
+.top{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        color: #FFFFFF;
+        margin: 15px;
+}
+
+.top i{
+        font-size: 1.2rem;
+}
+
+      #page42{
+              margin-top: 10vw;
+     text-align: center;
+
+      }
+      .dark-mode #page42 h1 {
+              color: deeppink;
+      }
+    #page42  h1 {
+        color: #FF0000;
+        margin-top: 30px;
+      }
+      .result1{
+              width: 85%;
+              height: 50vw;
+              align-items: center;
+              display: flex;
+              justify-content: center;
+              margin:10vw auto;
+              object-fit: cover;
+              border: 2px dashed #FFFFFF;
+              border-radius: 12px;
+      }
+      .YouTube select {
+              border-left: 1px solid #FFFFFF;
+        
+      }
+
+      .koljyh {
+        padding: 10px 20px;
+        width: 85%;
+        background-color: #FF0000;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+       
+       .koio{
+               
+               display: flex;
+               justify-content: space-around;
+               align-items: center;
+               margin-top: 10vw;
+               height: 40px;
+               background: none;
+               border: none;
+               border: 2px solid #FFFFFF;
+               width: 85%;
+               margin:10vw auto;
+               border-radius: 12px;
+       }
+       
+      .koio input{
+              height: 40px;
+              width: 80%;
+              border: none;
+              background: none;
+              color: #FFFFFF;
+              padding-left: 10px;
+      }
+      .koio .format{
+                 height: 40px;
+                 width: 20%;
+                 background: none;
+                 border: none;
+                 color: #FFFFFF;
+      }
+      
+      
+      
+      .ko{
+              width: 85%;
+              height:40px;
+              border: none;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              margin: auto;
+              border-radius: 5px;
+            
+                  }
+                  
+                  
+                  .bo{
+                          display: grid;
+                          justify-content: center;
+                          align-items: center;
+                          margin:10vw auto;
+                          color: #FFFFFF;
+                          font-size: 15px;
+                          
+                  }
+.bo h2{
+        color: gainsboro;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-weight: 800;
+        text-align: center;
+}
+.bo p{
+        color: #C8C8C8;
+        margin: 1.1rem;
+        gap: 105px;
+        letter-spacing: 1px;
+            line-height: 1.3; 
+}
